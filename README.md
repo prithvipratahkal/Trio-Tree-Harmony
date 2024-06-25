@@ -3,7 +3,7 @@ This project implements a 2-3 tree in Java, a balanced search tree that allows f
 
 Files:
 
-1) Tree.java: Contains the main logic for the 2-3 tree, including methods for insertion, searching, and cascade splitting.
+1) TwoThreeTree.java: Contains the main logic for the 2-3 tree, including methods for insertion, searching, and cascade splitting.
 2) TreeNode.java: Defines the structure of a node in the 2-3 tree, holding values and references to child nodes.
 
 Features:
